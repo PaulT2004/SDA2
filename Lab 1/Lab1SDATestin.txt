@@ -1,0 +1,5 @@
+Moldova,Chisinau,22
+Rome,Italy,12
+Spain,Barcelona,15
+France,Lyon,13
+Germany,Berlin,21
