@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713984336 source:c:\users\admin\desktop\uni\md\printer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
